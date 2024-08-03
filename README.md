@@ -1,4 +1,4 @@
- <h1 align="center"> Suhail Md </h1> 
+ <h1 align="center"> 彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡 </h1> 
 <p align="center"> A simple WhatsApp bot with rich features. </p>
 
  
@@ -19,7 +19,7 @@
    <a href="https://github.com/SuhailTechInfo/Suhail-Md/fork">
     <img src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
    </a>
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md/stargazers"> 
+  <a href="https://github.com/arfngithub"> 
      <img src="https://img.shields.io/github/stars/SuhailTechInfo/Suhail-Md?style=flat-square&logo=github&color=darkred">
  </a>
 
