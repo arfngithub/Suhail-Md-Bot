@@ -1,15 +1,15 @@
 {
-  "name": "suhail-md@1.3.9",
-  "description": "I am Suhail-Md Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/SuhailTechInfo",
-  "logo": "https://github.com/SuhailTechInfo/Suhail-Md/blob/main/lib/assets/suhail.jpg?raw=true",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "name": "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡@1.3.9",
+  "description": "I am 彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡 Whatsapp Chuddy Buddy built in NodeJs to make experience better\n\t if Any Problem : https://youtube.com/@im_abdulrehman?si=dXVOCK8CdPQlT8eO",
+  "logo": "",
+  "keywords": ["whatsappbot", "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡", "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡 bot", "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡", "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡WhatsaooBot", "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡Bot","彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡","彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡 Whatsapp Bot","multi device"],
+  "success_url": "/彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡/",
   "app_url": "/qr/",
   "stack":"container",
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡 Ser",
       "required" :true
     },   
      
@@ -27,7 +27,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -65,7 +65,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "923184474176"
+      "value": "923177835251"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
