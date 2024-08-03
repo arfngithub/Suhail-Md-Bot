@@ -53,7 +53,7 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
+<p align="center"> 彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡 whatsapp bot uses
   <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
 </p>
 <p align="center">
@@ -63,7 +63,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>彡♛ʀᴏʏᴀʟ ʙᴏʏ♛彡</b></a> Support Deploy On...
 </p>
 
 <p align="center">
